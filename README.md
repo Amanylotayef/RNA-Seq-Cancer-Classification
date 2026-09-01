@@ -2,7 +2,7 @@
 There are three notebooks 1-CNN, 2.Transformer+wrapper, 3. Transformer+XGBOOST
 # RNA-Seq Cancer Classification Using Deep Learning
 
-This repository contains the source code and Jupyter notebooks used in the study **"[Your Manuscript Title]"** for multi-class classification of RNA-Seq data from five cancer types.
+This repository contains the source code afor multi-class classification of RNA-Seq data from five cancer types.
 
 ## Overview
 
